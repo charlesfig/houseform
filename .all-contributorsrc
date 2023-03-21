@@ -1,6 +1,6 @@
 {
   "projectName": "houseform",
-  "projectOwner": "crutchcorn",
+  "projectOwner": "houseform",
   "repoType": "github",
   "files": [
     "README.md"
@@ -86,6 +86,16 @@
       "profile": "http://shivan.xyz",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "charlesfig",
+      "name": "Carlos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39968271?v=4",
+      "profile": "http://charlesfig.github.io",
+      "contributions": [
+        "code",
+        "test"
       ]
     }
   ],
